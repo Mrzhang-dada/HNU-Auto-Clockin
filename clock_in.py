@@ -66,11 +66,11 @@ def main():
                     "RealCity":args.city,
                     "RealCounty":args.county,
                     "RealProvince":args.province,
-                    "Temperature":"36.5"
+                    "Temperature":"36.5",
                     "TouchInfo":"null",
                     "UnusualInfo":"null",
                     "dailyinfo":{"IsVia":"0","DateTrip":""},
-                    "tripinfolist":[]
+                    "tripinfolist":[],
                     "toucherinfolist":[]
                     }
 
