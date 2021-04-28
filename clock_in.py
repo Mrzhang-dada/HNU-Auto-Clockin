@@ -61,6 +61,7 @@ def main():
                     "Latitude":lat,
                     "ModifyFields":"null"
                     "MorningTemp":"36"
+                    "NightTemp":"36"
                     "RealAddress":real_address,
                     "RealCity":args.city,
                     "RealCounty":args.county,
