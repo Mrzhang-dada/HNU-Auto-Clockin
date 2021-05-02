@@ -74,10 +74,6 @@ def main():
                     "Latitude":lat
                     }
     
-    "MorningTemp":"36",
-                    "NightTemp":"36",
-                "Temperature":"36.5",
-
     clockin = requests.post(clockin_url, headers=headers, json=clockin_data)
 
     if clockin.status_code == 200:
